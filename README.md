@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aniket532015
 - 👀 I’m interested in web develpoment and AI 
-- 🌱 I’m currently learning java language currentely I am in learnibg stage but one day the sun will shine for me 
+- 🌱 I’m currently Python library's and I am in learning stage but one day the sun will shine for me 
 - 💞️ I’m looking to collaborate on web development  
 - 📫 How to reach me via email akaniketkumar532015@gmail.com
 
