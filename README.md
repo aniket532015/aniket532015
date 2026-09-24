@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @aniket532015
-- 👀 I’m interested in web develpoment and AI 
-- 🌱 I’m currently Python library's and I am in learning stage but one day the sun will shine for me 
-- 💞️ I’m looking to collaborate on web development  
-- 📫 How to reach me via email akaniketkumar532015@gmail.com
+## 💼 Professional Focus
 
-<!---
-aniket532015/aniket532015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+AI Engineering · Backend Engineering · AI Platform Engineering  
+DevOps · Cloud Engineering · SRE · Platform Engineering
+
+---
+
+## 🚀 What I'm Building
+
+### Alfred OS
+Autonomous multi-agent AI platform for building and orchestrating AI-powered workflows.
+
+🔗 https://integrate-ai.aniket.uk/
+
+### AI Hybrid Voice Caller
+AI-powered voice automation for real-time conversations, approvals and notifications.
+
+🔗 https://aicalling.aniket.uk/
+
+### Product Engineering
+Building production applications across backend development, cloud infrastructure,
+AI integrations, automation, analytics and client-driven requirements.
+
+---
+
+## 🧰 Core Technologies
+
+**AI:**  
+AI Agents · Multi-Agent Systems · LLMs · RAG · AI Automation
+
+**Backend:**  
+Python · FastAPI · REST APIs · Node.js · Microservices
+
+**Cloud & DevOps:**  
+AWS · Docker · Kubernetes · Jenkins · GitHub Actions · Nginx · Linux
+
+**Databases & Messaging:**  
+MongoDB · MongoDB Atlas · MySQL · PostgreSQL · Redis · Kafka · RabbitMQ
+
+---
+
+## 📫 Connect With Me
+
+🌐 **Portfolio:** https://aniket.uk/
+
+💻 **GitHub:** https://github.com/aniket532015
+
+---
+
+> **Building systems from idea → architecture → code → production.**
